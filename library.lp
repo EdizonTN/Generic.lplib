@@ -1,0 +1,10 @@
+(librepcb_library 42d8d2f4-d524-4472-853b-b434e3f76b71
+ (name "Generic")
+ (description "Generic symbols and packages")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-03T21:22:28Z)
+ (deprecated false)
+ (url "")
+)
