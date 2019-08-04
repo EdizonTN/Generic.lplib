@@ -1,7 +1,7 @@
 (librepcb_symbol 433ee83e-9cb7-4906-8433-f4aaf5456dcd
  (name "Capacitor Ceramic EU")
  (description "")
- (keywords "CCAP")
+ (keywords "CAPC")
  (author "EdizonTN")
  (version "0.1")
  (created 2019-08-03T20:23:45Z)

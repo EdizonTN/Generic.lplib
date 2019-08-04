@@ -1,6 +1,6 @@
 (librepcb_package e4db7b9f-49fd-4a82-a536-853b1595934d
  (name "CAPC2012X060N - 0805")
- (description "EIA: 0805, METRIC: 2012, JEDEC: - , IPC: CAPC2012X060N. L1: 2.0, W: 1.2, Height: 0,6 mm. N-Medium Density Board Level")
+ (description "EIA: 0805, METRIC: 2012, JEDEC: - , IPC: CAPC2012X60N. L1: 2.0, W: 1.2, Height: 0.6 mm. N-Medium Density Board Level")
  (keywords "0805")
  (author "EdizonTN")
  (version "0.1")

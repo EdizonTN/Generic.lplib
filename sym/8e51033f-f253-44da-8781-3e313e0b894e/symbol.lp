@@ -1,7 +1,7 @@
 (librepcb_symbol 8e51033f-f253-44da-8781-3e313e0b894e
  (name "Capacitor Ceramic US")
  (description "")
- (keywords "CCAP")
+ (keywords "CAPC")
  (author "EdizonTN")
  (version "0.1")
  (created 2019-08-03T20:36:34Z)
