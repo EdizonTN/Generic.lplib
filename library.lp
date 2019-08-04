@@ -1,6 +1,6 @@
 (librepcb_library 42d8d2f4-d524-4472-853b-b434e3f76b71
  (name "Generic")
- (description "Generic symbols and packages")
+ (description "Ed\'s generic symbols and packages.\nSymbols by IEC 60617.\nLand patterns by IPC 7351 (https://ocipcdc.org/archive/What_is_New_in_IPC-7351C_03_11_2015.pdf).")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
