@@ -1,0 +1,10 @@
+(librepcb_package_category 1e062b65-a53c-489c-869d-178d351602ee
+ (name "Radial")
+ (description "by IPC7251 Naming convention")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-08T23:39:47Z)
+ (deprecated false)
+ (parent 2be0364d-97f6-424d-9732-34cf0cfd3e3f)
+)

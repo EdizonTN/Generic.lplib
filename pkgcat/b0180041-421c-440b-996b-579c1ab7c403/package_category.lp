@@ -1,0 +1,10 @@
+(librepcb_package_category b0180041-421c-440b-996b-579c1ab7c403
+ (name "Rectangle")
+ (description "CAPRR by IPC7251 Naming convention")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-08T23:43:08Z)
+ (deprecated false)
+ (parent 1e062b65-a53c-489c-869d-178d351602ee)
+)

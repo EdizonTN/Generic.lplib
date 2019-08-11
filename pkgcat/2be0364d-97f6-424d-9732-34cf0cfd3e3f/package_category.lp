@@ -1,0 +1,10 @@
+(librepcb_package_category 2be0364d-97f6-424d-9732-34cf0cfd3e3f
+ (name "Non Polarized")
+ (description "by IPC7251 Naming convention")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-08T23:38:28Z)
+ (deprecated false)
+ (parent ee75e31d-f231-41d9-8a3b-bea5114f41e3)
+)

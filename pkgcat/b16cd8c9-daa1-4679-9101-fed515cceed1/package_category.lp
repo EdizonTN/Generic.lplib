@@ -1,0 +1,10 @@
+(librepcb_package_category b16cd8c9-daa1-4679-9101-fed515cceed1
+ (name "Disk Button")
+ (description "CAPRB by IPC7251 Naming convention")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-08T23:41:24Z)
+ (deprecated false)
+ (parent 1e062b65-a53c-489c-869d-178d351602ee)
+)
