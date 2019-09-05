@@ -1,5 +1,5 @@
 (librepcb_device e714900e-d5a5-46e5-9e55-2dcd32ecc1f2
- (name "CAPC SMD 1206 Height 0.9mm")
+ (name "CAPC, SMD 1206, H:0.9mm")
  (description "Generic Capacitor ceramic (bipolar) in SMT 1206 package")
  (keywords "CAPC")
  (author "EdizonTN")

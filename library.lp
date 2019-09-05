@@ -5,7 +5,7 @@
  (author "EdizonTN")
  (version "0.1")
  (created 2019-08-03T21:22:28Z)
- (deprecated false)
+ (deprecated true)
  (url "https://github.com/EdizonTN/Generic.lplib")
  (dependency 8ba83e8b-46b5-45e9-81c4-1afee9152e0c)
 )

@@ -1,5 +1,5 @@
 (librepcb_device 1e9da384-6108-4c9f-8630-a2465fc2a253
- (name "CAPC SMD 0805 Height 1.25mm")
+ (name "CAPC, SMD 0805, H:1.25mm")
  (description "Generic Capacitor ceramic (bipolar) in SMT 0805 package")
  (keywords "Res")
  (author "EdizonTN")

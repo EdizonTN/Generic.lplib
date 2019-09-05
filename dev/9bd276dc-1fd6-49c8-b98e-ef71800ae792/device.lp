@@ -1,5 +1,5 @@
 (librepcb_device 9bd276dc-1fd6-49c8-b98e-ef71800ae792
- (name "RESC SMD 1206 Height 0.9mm")
+ (name "RESC, SMD 1206, H:0.9mm")
  (description "Generic Resistor in SMT 1206 package")
  (keywords "Res")
  (author "EdizonTN")

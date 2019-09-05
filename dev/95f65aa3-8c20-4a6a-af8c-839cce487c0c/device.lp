@@ -1,5 +1,5 @@
 (librepcb_device 95f65aa3-8c20-4a6a-af8c-839cce487c0c
- (name "RESC SMD 0805 Height 1mm")
+ (name "RESC, SMD 0805, H:1mm")
  (description "Generic Resistor in SMT 0805 package")
  (keywords "Res")
  (author "EdizonTN")
