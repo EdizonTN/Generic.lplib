@@ -1,5 +1,5 @@
 (librepcb_device b419817f-3bf6-4614-a20a-5eda06f3e545
- (name "CAPRB, THT 5.08mm, L: 5.08mm, H:6.60 T:3.18")
+ (name "CAPRB, THT 5.08mm, L:5.08mm, H:6.60 T:3.18")
  (description "")
  (keywords "")
  (author "EdizonTN")

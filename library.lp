@@ -1,11 +1,11 @@
 (librepcb_library 42d8d2f4-d524-4472-853b-b434e3f76b71
  (name "Generic")
- (description "Ed\'s generic symbols and packages.\nSymbols by IEC 60617.\nLand patterns by IPC 7351 (https://ocipcdc.org/archive/What_is_New_in_IPC-7351C_03_11_2015.pdf).")
+ (description "Ed\'s generic symbols and packages.\nSymbols by IEC 60617.\nLand patterns by IPC 7351 (https://ocipcdc.org/archive/What_is_New_in_IPC-7351C_03_11_2015.pdf).\nNaming convention by: http://ohm.bu.edu/~pbohn/__Engineering_Reference/pcb_layout/pcbmatrix/IPC-7x51%20&%20PCBM%20Land%20Pattern%20Naming%20Convention.pdf\nFootprint orientation by: http://ohm.bu.edu/~pbohn/__Engineering_Reference/pcb_layout/pcbmatrix/Component%20Zero%20Orientations%20for%20CAD%20Libraries.pdf")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
  (created 2019-08-03T21:22:28Z)
- (deprecated true)
+ (deprecated false)
  (url "https://github.com/EdizonTN/Generic.lplib")
  (dependency 8ba83e8b-46b5-45e9-81c4-1afee9152e0c)
 )
