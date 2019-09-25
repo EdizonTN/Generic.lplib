@@ -1,10 +1,10 @@
-(librepcb_component_category ab32ba2b-d5d5-459b-a777-f5f71d5802e4
- (name "NonPolarized")
+(librepcb_component_category 3b6627e9-c71c-4dab-a47c-2a2e9ed53f04
+ (name "Polarized")
  (description "")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
- (created 2019-08-03T20:24:08Z)
+ (created 2019-09-25T22:43:45Z)
  (deprecated false)
  (parent c011cc6b-b762-498e-8494-d1994f3043cf)
 )
