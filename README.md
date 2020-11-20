@@ -5,7 +5,7 @@
 This is an unofficial testing [LibrePCB](https://librepcb.org) library. 
 General EdizonTN's symbols and packages + generic components.
 
-Total: 54 devices
+Total: 55 devices
 
 
 ## How to add library to your LibrePCB
