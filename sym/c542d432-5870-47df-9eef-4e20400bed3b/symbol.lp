@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2020-11-10T10:36:15Z)
  (deprecated false)
+ (generated_by "")
  (category bd6346a1-5cbf-4b28-a62b-637d8e1a225d)
  (text 019e3ab5-7de8-4da3-abe2-5ffd806d2676 (layer sym_values) (value "{{VALUE}}")
   (align left bottom) (height 1.0) (position 0.0 0.0) (rotation 0.0)

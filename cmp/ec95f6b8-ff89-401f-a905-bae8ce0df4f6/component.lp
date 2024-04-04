@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2019-08-16T21:59:52Z)
  (deprecated false)
+ (generated_by "")
  (category adf8d941-787c-4b02-8772-fbc0a587463d)
  (schematic_only true)
  (default_value "GND")
